@@ -1,6 +1,7 @@
 # HW-2
 Ahmed Aslam, Mirajul Fahim, Antonio Sosa
-Econ-HW-2
+
+
 PP1 (Please see attached Corresponding Graphs for throws 30, 100 and 500)
 
 If the dice were fair, the probability of getting a 6 is E(6)=1/6
